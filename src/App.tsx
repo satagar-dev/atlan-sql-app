@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import { useQueryStore } from './store/useQueryStore';
 import QueryEditor from './components/QueryEditor';
 import QueryList from './components/QueryList';
